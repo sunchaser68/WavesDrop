@@ -8,6 +8,8 @@ $seed = 'manage manual recall harvest series desert melt police rose hollow mora
 $asset = '8XesECmKryZQiYsUxPY1SJFoUjNh2K7CtaxCKeCoWAWD';
 // ATTACHMENT: attachment string
 $attachment = 'WavesDrop';
+// EXCLUDED WALLETS 
+$excludedWallets = array ('3Maaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa');
 
 // JSON LIST
 if( 1 )

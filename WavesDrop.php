@@ -130,8 +130,8 @@ if( $afterFee < 0 || $afterBalance < 0 )
 
 $wk->log( 'i', '---' );
 $wk->log( 'w', 'press Ctrl + C to abort' );
-$wk->log( 'i', 'sleeping for 10 seconds...' );
-sleep( 10 );
+$wk->log( 'i', 'sleeping for 30 seconds...' );
+sleep( 30 );
 
 function ensure( $wk, $txs, &$errors )
 {
